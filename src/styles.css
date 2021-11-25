@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#num {
+  text-align: center;
+  font-size: 150px;
+  margin-top: 30px;
+}
+
+button {
+  font-size: xx-large;
+  font-family: "Courier New", Courier, monospace;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  height: auto;
+}
+
+body {
+  background-image: url("https://www.soledu.net/wp-content/uploads/2021/06/2main-web-background2.png");
+}
