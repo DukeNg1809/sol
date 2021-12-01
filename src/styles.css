@@ -5,25 +5,27 @@
 
 #num {
   text-align: center;
-  font-size: 150px;
-  margin-top: 30px;
+  font-size: 165px;
+  margin-top: 0px;
+  color: white;
 }
 
 button {
   font-size: xx-large;
-  font-family: "Courier New", Courier, monospace;
-  margin-top: 30px;
+  font-family: cursive;
+  margin-top: 10px;
 }
 
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 35%;
   height: auto;
 }
 
 body {
-  /* background-image: url("https://speckyboy.com/wp-content/uploads/2020/11/high-resolution-christmas-desktop-wallpaper-43.jpg");
-  background-repeat: no-repeat; */
+  background-image: url("https://cdn.pixabay.com/photo/2016/01/14/21/33/christmas-1140818_960_720.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
